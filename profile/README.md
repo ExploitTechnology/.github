@@ -8,6 +8,10 @@ For a small application, we can discuss a manual review of selected risks such a
 
 **[Request a scoping conversation](https://www.exploit-technology.com/contact/?utm_source=github&utm_medium=org_profile&utm_campaign=focused_web_app_validation)**. Tell us which system you own, the two or three questions you most want answered, and your desired timing. Please keep credentials and client records out of the initial inquiry.
 
+## Prepare for a useful test
+
+Our [penetration-test preparation checklist](https://www.exploit-technology.com/blog/how-to-prepare-for-a-penetration-test/) covers authorization, test accounts, operating constraints, and deliverables. For a custom application, identify the two or three workflows and data boundaries that matter most, such as document sharing between customer accounts. We can then state which workflows fit the proposed manual review and which do not.
+
 ## See the reporting approach
 
 [View a sanitized sample report and QSA support overview](https://www.exploit-technology.com/qsa-support/). The sample shows report structure and remediation guidance; it does not represent the qualifications of a proposed tester for a new engagement. Exploit Technology supports assessors with independent technical testing; the assessor owns any audit conclusion.
