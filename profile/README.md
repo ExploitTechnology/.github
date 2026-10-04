@@ -17,3 +17,7 @@ Our [penetration-test preparation checklist](https://www.exploit-technology.com/
 [View a sanitized sample report and QSA support overview](https://www.exploit-technology.com/qsa-support/). The sample shows report structure and remediation guidance; it does not represent the qualifications of a proposed tester for a new engagement. Exploit Technology supports assessors with independent technical testing; the assessor owns any audit conclusion.
 
 [Company website](https://www.exploit-technology.com/)
+
+## Clothing
+
+Browse the [Exploit Technology Signature Hoodie](https://shop.exploit-technology.com/products/exploit-technology-signature-hoodie?utm_source=github&utm_medium=org_profile&utm_campaign=signature_hoodie_oct2026) in our clothing shop.
